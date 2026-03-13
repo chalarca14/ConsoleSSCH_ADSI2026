@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleSSCH_ADSI2026.Clases
+namespace ConsoleSSCH_ADSI2026.Facturacion
 {
     public class Factura
     {
